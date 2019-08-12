@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Negara - Negara ASEAN (Arman D)</string>
+    <string name="header_negara">Indonesia</string>
+    <string name="content_deskripsi">
+        Republik Indonesia (RI) atau Negara Kesatuan Republik Indonesia (NKRI), atau lebih umum disebut Indonesia, adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, serta antara Samudra Pasifik dan Samudra Hindia. Indonesia adalah negara kepulauan terbesar di dunia yang terdiri dari 17.504 pulau.[11] Nama alternatif yang biasa dipakai adalah Nusantara.[12] Dengan populasi Hampir 270.054.853 jiwa pada tahun 2018,[13] Indonesia adalah negara berpenduduk terbesar keempat di dunia dan negara yang berpenduduk Muslim terbesar di dunia, dengan lebih dari 230 juta jiwa.
+    </string>
+    <string name="ibu_kota">Ibu Kota</string>
+    <string name="ibu_kota_negara">Jakarta</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="bahasa_resmi">Bahasa Indonesia</string>
+    <string name="area">Area</string>
+    <string name="area_luas">1.910.931 km2</string>
+    <string name="penduduk">Penduduk</string>
+    <string name="penduduk_jumlah">261.115.456</string>
+    <string name="about">About</string>
+</resources>
