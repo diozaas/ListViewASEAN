@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <ListView
@@ -14,6 +15,7 @@
         android:dividerHeight="1dp"></ListView>
 
     <Button
+        android:id="@+id/btn_about"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/about"/>

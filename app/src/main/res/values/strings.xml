@@ -13,4 +13,86 @@
     <string name="penduduk">Penduduk</string>
     <string name="penduduk_jumlah">261.115.456</string>
     <string name="about">About</string>
+    <string name="biodata">Biodata :</string>
+    <string name="nama_arman_dioza">Nama : Arman Dioza</string>
+    <string name="email_diozaarman_gmail_com">Email : diozaarman@gmail.com</string>
+
+    <string-array name="countryLists">
+        <item>"Indonesia"</item>
+        <item>"Malaysia"</item>
+        <item>"Singapura"</item>
+        <item>"Thailand"</item>
+        <item>"Brunei Darussalam"</item>
+        <item>"Vietnam"</item>
+        <item>"Laos"</item>
+        <item>"Myanmar"</item>
+        <item>"Kamboja"</item>
+        <item>"Filipina"</item>
+    </string-array>
+
+    <string-array name="countryDesc">
+        <item>Republik Indonesia (RI) atau Negara Kesatuan Republik Indonesia (NKRI), atau lebih umum disebut Indonesia, adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, serta antara Samudra Pasifik dan Samudra Hindia. Indonesia adalah negara kepulauan terbesar di dunia yang terdiri dari 17.504 pulau.[11] Nama alternatif yang biasa dipakai adalah Nusantara.[12] Dengan populasi Hampir 270.054.853 jiwa pada tahun 2018,[13] Indonesia adalah negara berpenduduk terbesar keempat di dunia dan negara yang berpenduduk Muslim terbesar di dunia, dengan lebih dari 230 juta jiwa.</item>
+        <item>Malaysia adalah sebuah negara federal yang terdiri dari tiga belas negeri (negara bagian) dan tiga wilayah federal di Asia Tenggara dengan luas 329.847 km persegi. Ibu kotanya adalah Kuala Lumpur, sedangkan Putrajaya menjadi pusat pemerintahan federal. Jumlah penduduk negara ini mencapai 30.697.000 jiwa pada tahun 2015. Negara ini dipisahkan ke dalam dua kawasan — Malaysia Barat dan Malaysia Timur — oleh Kepulauan Natuna, wilayah Indonesia di Laut Tiongkok Selatan. Malaysia berbatasan dengan Thailand, Indonesia, Singapura, Brunei, dan Filipina. Negara ini terletak di dekat khatulistiwa dan beriklim tropika.</item>
+        <item>Singapura (nama resmi: Republik Singapura) adalah sebuah negara pulau di lepas ujung selatan Semenanjung Malaya, 137 kilometer (85 mi) di utara khatulistiwa di Asia Tenggara. Negara ini terpisah dari Malaysia oleh Selat Johor di utara, dan dari Kepulauan Riau, Indonesia oleh Selat Singapura di selatan. Singapura adalah pusat keuangan terdepan ketiga di dunia dan sebuah kota dunia kosmopolitan yang memainkan peran penting dalam perdagangan dan keuangan internasional. Pelabuhan Singapura adalah satu dari lima pelabuhan tersibuk di dunia.</item>
+        <item>Kerajaan Thai (nama resmi bahasa Thai: ราชอาณาจักรไทย Ratcha Anachak Thai; atau Prathēt Thai), yang lebih sering disebut Thailand dalam bahasa Inggris, atau dalam bahasa aslinya Mueang Thai (dibaca: "meng-thai", sama dengan versi Inggrisnya, berarti "Negeri Thai"), adalah sebuah negara di Asia Tenggara yang berbatasan dengan Laos dan Kamboja di timur, Malaysia dan Teluk Siam di selatan, dan Myanmar dan Laut Andaman di barat. Kerajaan Thai dahulu dikenal sebagai Siam sampai tanggal 11 Mei 1949. Kata "Thai" (ไทย) berarti "kebebasan" dalam bahasa Thai, tetapi juga dapat merujuk kepada suku Thai, sehingga menyebabkan nama Siam masih digunakan di kalangan warga negara Thai terutama kaum minoritas Tionghoa dan Amerika.</item>
+        <item>Brunei Darussalam atau Brunei, nama resmi: Negara Brunei Darussalam, (bahasa Melayu: Negara Brunei Darussalam, Jawi: نڬارا بروني دارالسلام), adalah negara berdaulat di Asia Tenggara yang terletak di pantai utara pulau Kalimantan. Negara ini memiliki wilayah seluas 5.765 km² yang menempati pulau Borneo dengan garis pantai seluruhnya menyentuh Laut Cina Selatan. Wilayahnya dipisahkan ke dalam dua negara bagian di Malaysia yaitu Sarawak dan Sabah. </item>
+        <item>Vietnam (Bahasa Vietnam: Việt Nam Chữ Nôm: 越南[viət˨ næm˧] ( simak)), bernama resmi Republik Sosialis Vietnam (Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam 共和社會主義越南) adalah negara paling timur di Semenanjung Indochina di Asia Tenggara. Vietnam berbatasan dengan Republik Rakyat Tiongkok di sebelah utara, Laos di sebelah barat laut, Kamboja di sebelah barat daya dan di sebelah timur terbentang Laut China Selatan.</item>
+        <item>Republik Demokratik Rakyat Laos adalah negara yang terkurung daratan di Asia Tenggara, berbatasan dengan Myanmar dan Republik Rakyat Tiongkok di sebelah barat laut, Vietnam di timur, Kamboja di selatan, dan Thailand di sebelah barat. Dari abad ke-14 hingga abad ke-18, negara ini disebut Lan Xang atau "Negeri Seribu Gajah".</item>
+        <item>Republik Persatuan Myanmar (juga dikenal sebagai Birma, disebut "Burma" di dunia Barat) adalah sebuah negara berdaulat di Asia Tenggara. Myanmar berbatasan dengan India dan Bangladesh di sebelah barat, Thailand dan Laos di sebelah timur dan China di sebelah utara dan timur laut. Negara seluas 676.578 km² ini telah diperintah oleh pemerintahan militer sejak kudeta tahun 1988. Negara ini adalah negara berkembang dan memiliki populasi lebih dari 51 juta jiwa (sensus 2014). Ibu kota negara ini sebelumnya terletak di Yangon sebelum dipindahkan oleh pemerintahan junta militer ke Naypyidaw pada tanggal 7 November 2005. Myanmar telah bergabung sebagai anggota Perhimpunan Bangsa-Bangsa Asia Tenggara (ASEAN) sejak tahun 1997. </item>
+        <item>Kamboja</item>
+        <item>Filipina</item>
+    </string-array>
+
+    <string-array name="countryCity">
+        <item>Jakarta</item>
+        <item>Kuala Lumpur</item>
+        <item>Singapura</item>
+        <item>Bangkok</item>
+        <item>Bandar Seri Begawan</item>
+        <item>Hanoi</item>
+        <item>Vientiane</item>
+        <item>Naypyidaw</item>
+        <item>Phnom Penh</item>
+        <item>Manila</item>
+    </string-array>
+
+    <string-array name="countryLang">
+        <item>Bahasa Indonesia</item>
+        <item>Melayu</item>
+        <item>Inggris, Melayu, Mandarin, Tamil</item>
+        <item>Thai</item>
+        <item>Melayu</item>
+        <item>Vietnam</item>
+        <item>Lao</item>
+        <item>Burma</item>
+        <item>Khmer</item>
+        <item>Filipino</item>
+    </string-array>
+
+    <string-array name="countryArea">
+        <item>1.910.931 km2</item>
+        <item>329.847 km2</item>
+        <item>722,5 km2</item>
+        <item>513.120 km2</item>
+        <item>5.765 km2</item>
+        <item>331.212 km2</item>
+        <item>237.955 km2</item>
+        <item>676.578 km2</item>
+        <item>181.035 km2</item>
+        <item>300.000 km2</item>
+    </string-array>
+
+    <string-array name="countryCitizen">
+        <item>261.115.456</item>
+        <item>30.697.000</item>
+        <item>5.638.700</item>
+        <item>68.863.514</item>
+        <item>442.400</item>
+        <item>94.569.072</item>
+        <item>6.758.353</item>
+        <item>53.582.855</item>
+        <item>16.245.729</item>
+        <item>100.981.437</item>
+    </string-array>
+
 </resources>

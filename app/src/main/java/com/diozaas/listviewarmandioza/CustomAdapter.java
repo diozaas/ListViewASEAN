@@ -2,6 +2,7 @@ package com.diozaas.listviewarmandioza;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.media.Image;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -12,6 +13,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.io.ByteArrayOutputStream;
 import java.util.zip.Inflater;
 
 public class CustomAdapter extends BaseAdapter {
@@ -22,6 +24,7 @@ public class CustomAdapter extends BaseAdapter {
 
 //    private final Context context;
 
+//    public CustomAdapter(Context applicationContext, String[] countryList, int[] flags) {
     public CustomAdapter(Context applicationContext, String[] countryList, int[] flags) {
         this.context = context;
         this.countryList = countryList;
@@ -93,10 +96,16 @@ public class CustomAdapter extends BaseAdapter {
 //                }
 
                 Intent moveIntent=new Intent(view.getContext(),CountryDetail.class);
+//                Bitmap bitmap;
+//                ByteArrayOutputStream _bs = new ByteArrayOutputStream();
+//                bitmap.compress(Bitmap.CompressFormat.PNG, 50, _bs);
+//                bitmap.compress(Bitmap.CompressFormat.PNG, 50, _bs);
+//                moveIntent.putExtra("icon", _bs.toByteArray())
+
                 moveIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 moveIntent.putExtra("position",number);
                 moveIntent.putExtra("negara",countryList[number]);
-                moveIntent.putExtra("icon",flags[number]);
+//                moveIntent.putExtra("icon",flags[number]);
                 view.getContext().startActivity(moveIntent);
 
 //                context.startActivity(new Intent(CustomAdapter.this, CountryDetail.class));
