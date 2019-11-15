@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Negara - Negara ASEAN (Arman D)</string>
+    <string name="app_name">ASEAN Member</string>
     <string name="header_negara">Indonesia</string>
     <string name="content_deskripsi">
         Republik Indonesia (RI) atau Negara Kesatuan Republik Indonesia (NKRI), atau lebih umum disebut Indonesia, adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, serta antara Samudra Pasifik dan Samudra Hindia. Indonesia adalah negara kepulauan terbesar di dunia yang terdiri dari 17.504 pulau.[11] Nama alternatif yang biasa dipakai adalah Nusantara.[12] Dengan populasi Hampir 270.054.853 jiwa pada tahun 2018,[13] Indonesia adalah negara berpenduduk terbesar keempat di dunia dan negara yang berpenduduk Muslim terbesar di dunia, dengan lebih dari 230 juta jiwa.
@@ -17,17 +17,17 @@
     <string name="nama_arman_dioza">Nama : Arman Dioza</string>
     <string name="email_diozaarman_gmail_com">Email : diozaarman@gmail.com</string>
 
-    <string-array name="countryLists">
-        <item>"Indonesia"</item>
-        <item>"Malaysia"</item>
-        <item>"Singapura"</item>
-        <item>"Thailand"</item>
-        <item>"Brunei Darussalam"</item>
-        <item>"Vietnam"</item>
-        <item>"Laos"</item>
-        <item>"Myanmar"</item>
-        <item>"Kamboja"</item>
-        <item>"Filipina"</item>
+    <string-array name="countryList">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Brunei Darussalam</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Myanmar</item>
+        <item>Kamboja</item>
+        <item>Filipina</item>
     </string-array>
 
     <string-array name="countryDesc">
@@ -39,8 +39,10 @@
         <item>Vietnam (Bahasa Vietnam: Việt Nam Chữ Nôm: 越南[viət˨ næm˧] ( simak)), bernama resmi Republik Sosialis Vietnam (Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam 共和社會主義越南) adalah negara paling timur di Semenanjung Indochina di Asia Tenggara. Vietnam berbatasan dengan Republik Rakyat Tiongkok di sebelah utara, Laos di sebelah barat laut, Kamboja di sebelah barat daya dan di sebelah timur terbentang Laut China Selatan.</item>
         <item>Republik Demokratik Rakyat Laos adalah negara yang terkurung daratan di Asia Tenggara, berbatasan dengan Myanmar dan Republik Rakyat Tiongkok di sebelah barat laut, Vietnam di timur, Kamboja di selatan, dan Thailand di sebelah barat. Dari abad ke-14 hingga abad ke-18, negara ini disebut Lan Xang atau "Negeri Seribu Gajah".</item>
         <item>Republik Persatuan Myanmar (juga dikenal sebagai Birma, disebut "Burma" di dunia Barat) adalah sebuah negara berdaulat di Asia Tenggara. Myanmar berbatasan dengan India dan Bangladesh di sebelah barat, Thailand dan Laos di sebelah timur dan China di sebelah utara dan timur laut. Negara seluas 676.578 km² ini telah diperintah oleh pemerintahan militer sejak kudeta tahun 1988. Negara ini adalah negara berkembang dan memiliki populasi lebih dari 51 juta jiwa (sensus 2014). Ibu kota negara ini sebelumnya terletak di Yangon sebelum dipindahkan oleh pemerintahan junta militer ke Naypyidaw pada tanggal 7 November 2005. Myanmar telah bergabung sebagai anggota Perhimpunan Bangsa-Bangsa Asia Tenggara (ASEAN) sejak tahun 1997. </item>
-        <item>Kamboja</item>
-        <item>Filipina</item>
+        <item>Kerajaan Kamboja adalah sebuah negara berbentuk monarki konstitusional di Asia Tenggara. Negara ini merupakan penerus Kekaisaran Khmer yang pernah menguasai seluruh Semenanjung Indochina antara abad ke-11 dan 14.
+            Kamboja berbatasan dengan Thailand di sebelah barat, Laos di utara, Vietnam di timur, dan Teluk Thailand di selatan. Sungai Mekong dan Danau Tonle Sap melintasi negara ini.
+            Menjelang kemerdekaannya, Negara Kesatuan Republik Indonesia banyak membantu negara Kamboja ini. Buku - buku taktik perang karangan perwira militer Indonesia banyak digunakan oleh militer Kamboja. Oleh karenanya, para calon perwira di militer Kamboja, wajib belajar dan dapat berbahasa Indonesia. </item>
+        <item>Filipina atau Republik Filipina (bahasa Tagalog: Republika ng Pilipinas) adalah sebuah negara republik di Asia Tenggara, sebelah utara Indonesia, dan Malaysia. Filipina merupakan sebuah negara kepulauan yang terletak di Lingkar Pasifik Barat, negara ini terdiri dari 7.641 pulau. Selama ribuan tahun, warga kepulauan Filipina, dan pekerja keras ini telah mengembangkan sistem cocok tanam Padi yang sangat maju, yang menyediakan makanan pokok bagi masyarakatnya.</item>
     </string-array>
 
     <string-array name="countryCity">

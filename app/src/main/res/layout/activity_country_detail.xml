@@ -31,13 +31,13 @@
             android:textColor="@android:color/black"
             android:textSize="32sp" />
         <TextView
+            android:id="@+id/txt_desc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/activity_vertical_margin"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:lineSpacingMultiplier="1"
-            android:text="@string/content_deskripsi"
             android:textColor="@android:color/black" />
         <TableLayout
             android:layout_width="match_parent"
@@ -57,10 +57,10 @@
                     android:text="@string/ibu_kota"
                     android:textSize="14sp" />
                 <TextView
+                    android:id="@+id/txt_city"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="@string/ibu_kota_negara"
                     android:textColor="@android:color/black"
                     android:textSize="14sp" />
             </TableRow>
@@ -76,10 +76,10 @@
                     android:text="@string/bahasa"
                     android:textSize="14sp" />
                 <TextView
+                    android:id="@+id/txt_lang"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="@string/bahasa_resmi"
                     android:textColor="@android:color/black"
                     android:textSize="14sp" />
             </TableRow>
@@ -95,10 +95,10 @@
                     android:text="@string/area"
                     android:textSize="14sp" />
                 <TextView
+                    android:id="@+id/txt_area"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="@string/area_luas"
                     android:textColor="@android:color/black"
                     android:textSize="14sp" />
             </TableRow>
@@ -114,10 +114,10 @@
                     android:text="@string/penduduk"
                     android:textSize="14sp" />
                 <TextView
+                    android:id="@+id/txt_citizen"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="@string/penduduk_jumlah"
                     android:textColor="@android:color/black"
                     android:textSize="14sp" />
             </TableRow>
